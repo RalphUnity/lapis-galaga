@@ -12,4 +12,4 @@ Features:
 - High Scores: Keep track of your highest scores and compete with friends or other players to achieve the top rankings.
 
 Usage: 
-To play the Game of Life, please follow the instructions provided in the following link: [https://lapislazuligames.itch.io/galaga]
+To play the Galaga, please follow the instructions provided in the following link: [https://lapislazuligames.itch.io/galaga]
